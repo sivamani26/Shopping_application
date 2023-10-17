@@ -1,0 +1,21 @@
+.App-header {
+          background-color: #282c34;
+          min-height: 10%;
+          display: flex;
+          width: 100%;
+          position: fixed;
+          align-items: flex-end;
+          justify-content: flex-end;
+          font-size: calc(10px + 1vmin);
+          color: white;
+          z-index: 2;
+        }
+        
+        ul{
+          display: flex;
+          flex-direction: row;
+        }
+        
+        ul li{
+          padding: 0px 20px;
+        }
