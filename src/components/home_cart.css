@@ -97,7 +97,7 @@ p {
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 6;
           text-overflow: ellipsis;
-          overflow: hidden;
+          overflow: hidden
 }
 
 .category-tag {
