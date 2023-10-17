@@ -12,6 +12,7 @@ body {
           top: 15%;
           left: 2px;
 }
+
 .data_div {
           width: 20vw;
           height: 90vh;
@@ -43,16 +44,17 @@ body {
           left: 34%;
           top: -2%;
 }
-.data_card .left-tag{
+
+.data_card .left-tag {
           left: 34%;
           background-color: pink;
 }
 
-.data_card .jewelery_card{
+.data_card .jewelery_card {
           background-color: rgba(200, 203, 21, 0.712);
 }
 
-.data_card .men_card{
+.data_card .men_card {
           background-color: rgb(0, 0, 0);
           color: white;
 }
